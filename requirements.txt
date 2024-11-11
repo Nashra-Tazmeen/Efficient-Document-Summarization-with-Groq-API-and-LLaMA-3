@@ -1,0 +1,4 @@
+pip install pymupdf
+pip install langchain
+pip install langchain_groq
+pip install python-dotenv
